@@ -1,3 +1,6 @@
+OPEN THE vertopal.com_educational_analysis.pdf FILE TO SEE THE RESULT
+
+
 # 📊 Educational & Financial BI Analysis
 
 This project focuses on analyzing educational and financial KPIs to evaluate the performance of an educational institution.
